@@ -7,7 +7,7 @@
 
 ### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/huynh.thao.duyen.869583/)
-[!Email(https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto: htthaoduyenit@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto: htthaoduyenit@gmail.com)
 
 ### 🛠 Tech Stack:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -28,9 +28,10 @@
 
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TuaLearnCode& theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TuaLearnCode& theme=tokyonight&hide_border=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=TuaLearnCode&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=Baotrh8805&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Baotrh8805&theme=tokyonight&hide_border=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Baotrh8805&theme=tokyonight&hide_border=false)
+
 
 ## 👋 About Me
 - 🧑‍💻 Software Engineer from Vietnam  
