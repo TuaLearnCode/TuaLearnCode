@@ -7,7 +7,7 @@
 
 ### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/huynh.thao.duyen.869583/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto: htthaoduyenit@gmail.com)
+[!Email(https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto: htthaoduyenit@gmail.com)
 
 ### 🛠 Tech Stack:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
