@@ -1,4 +1,4 @@
-👋 Hi, I'm Huynh Truong Thao Duyen
+<h1 align="center"><strong>👋 Hi, I'm Thao Duyen</strong></h1>
 
 3rd-year IT student at Danang University of Science and Technology, passionate about building applications that benefit society. Always open to new technologies, new challenges and learning opportunities to grow as a developer.
 
