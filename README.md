@@ -35,17 +35,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TuaLearnCode&theme=tokyonight&hide_border=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TuaLearnCode&theme=tokyonight&hide_border=false)
 
-
-### 📊 GitHub Contributions Board:
-![GitHub contributions](https://img.shields.io/github/contributions/<username>)
-
-
-## 👋 About Me
-- 🧑‍💻 Software Engineer from Vietnam  
-- 🌱 Currently learning *Fullstack Web + Mobile* 
-- 🔥 Passion: Backend, DevOps, Mobile  
-- 🎯 Goal 2025: Build personal portfolio + landing pages  
-
+### 🤝 Collaborated Projects
+  👉 Issue: (https://github.com/TuaLearnCode/TuaLearnCode/issues)  
+  
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
