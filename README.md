@@ -36,6 +36,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TuaLearnCode&theme=tokyonight&hide_border=false)
 
 
+### 📊 GitHub Contributions Board:
+![GitHub contributions](https://img.shields.io/github/contributions/<username>)
+
+
 ## 👋 About Me
 - 🧑‍💻 Software Engineer from Vietnam  
 - 🌱 Currently learning *Fullstack Web + Mobile* 
